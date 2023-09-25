@@ -1,0 +1,1 @@
+DELETE FROM language WHERE name LIKE "japanese"
